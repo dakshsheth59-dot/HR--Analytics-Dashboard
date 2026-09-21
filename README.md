@@ -31,3 +31,7 @@ An HR analytics project analyzing employee demographics, departmental headcount,
 
 ## Author
 Daksh Sheth
+
+## Dashboard Preview
+
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
