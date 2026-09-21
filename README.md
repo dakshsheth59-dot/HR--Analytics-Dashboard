@@ -35,3 +35,33 @@ Daksh Sheth
 ## Dashboard Preview
 
 ![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+
+## Key Insights
+
+### 1. Employee Distribution
+- The organization has 500 employees across six departments.
+- Finance has the highest headcount with 101 employees.
+- Marketing has the lowest headcount with 69 employees.
+
+### 2. Employee Attrition
+- Total employee attrition is 43 employees.
+- The overall attrition rate is approximately 9%.
+- Human Resources has the highest departmental attrition rate at approximately 14%.
+- Sales recorded zero attrition in the analyzed dataset.
+- Finance recorded 9 employee exits.
+
+### 3. Employee Satisfaction
+- The overall job satisfaction score is 3.324.
+- Sales has the highest average satisfaction score at 3.46.
+- Operations has the lowest average satisfaction score at 3.23.
+- Human Resources has an average satisfaction score of 3.15.
+
+## Conclusion
+
+The HR Analytics Dashboard provides an overview of employee demographics, departmental headcount, employee attrition, and job satisfaction.
+
+The analysis identifies differences in attrition and satisfaction across departments. Human Resources has the highest departmental attrition rate, while Operations has the lowest average satisfaction score.
+
+These findings can help HR professionals identify areas for further investigation, support employee engagement initiatives, and make data-informed workforce decisions.
+
+This project demonstrates the practical application of Microsoft Excel, HR metrics, formulas, and data visualization in workforce analysis.
